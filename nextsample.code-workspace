@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.jsx": "javascriptreact",
+			"*.js": "javascript",
+			"*.ts": "typescript",
+			"*.tsx": "typescriptreact",
+			"*.css": "tailwindcss"
+		},
+		"editor.quickSuggestions": {
+			"other": "on",
+			"comments": "off",
+			"strings": "on"
+		},
+		"tailwindCSS.includeLanguages": {
+			"plaintext": "html"
+		}
+	}
+}
